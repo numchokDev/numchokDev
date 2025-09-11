@@ -1,1 +1,2 @@
-# numchok.dev
+[# numchok.dev
+](https://numchok.dev/)
